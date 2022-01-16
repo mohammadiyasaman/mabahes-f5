@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835742906828",
+    "project_id": "y-splash-screan",
+    "storage_bucket": "y-splash-screan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835742906828:android:bbf0b631f22cc18c730569",
+        "android_client_info": {
+          "package_name": "com.example.f5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835742906828-jtu37tpv6ptak1ttepbbcub1bikru77k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF1ElwLlbGHQzDj3sKuB553pU8BrgWtJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835742906828-jtu37tpv6ptak1ttepbbcub1bikru77k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
